@@ -16,3 +16,6 @@ Suspendisse ut aliquet ligula. Quisque vitae nulla ultricies enim luctus pulvina
 ![Imagen de Github](https://www.blackmoreops.com/wp-content/uploads/2021/09/Quick-Github-Tutorial.png)
 
 Emoticono de gato :cat:
+
+> [Atencion!]
+> Recuerda guardar tu repositorio con frecuencia!
