@@ -1,7 +1,7 @@
 # ConversorDec2Bin
 ## Laboratorio sesion 2
  
-**Negrita
+-Negrita-
 **Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ligula odio, laoreet id mattis tincidunt, vulputate ac quam. Proin fringilla auctor consequat. Maecenas sollicitudin ornare**
 
 _Cursiva_
