@@ -1,7 +1,7 @@
 # ConversorDec2Bin
 ## Laboratorio sesion 2
  
--Negrita-
+
 **Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ligula odio, laoreet id mattis tincidunt, vulputate ac quam. Proin fringilla auctor consequat. Maecenas sollicitudin ornare**
 
 _Cursiva_
@@ -21,4 +21,5 @@ Emoticono de gato :cat:
 
 > [!WARNING]
 > Recuerda guardar tu repositorio con frecuencia!
+
 ***
