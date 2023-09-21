@@ -17,6 +17,6 @@ Suspendisse ut aliquet ligula. Quisque vitae nulla ultricies enim luctus pulvina
 
 Emoticono de gato :cat:
 
-> [!Atencion]
+> [!WARNING]
 > Recuerda guardar tu repositorio con frecuencia!
 
